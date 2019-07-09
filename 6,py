@@ -1,0 +1,7 @@
+bh,jn=map(int,input().split())
+df=input().split()
+hh=[]
+for i in df:
+ if(int(i)%2!=0):
+  hh.append(i)
+print(hh[jn-1])
