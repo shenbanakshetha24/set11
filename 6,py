@@ -1,4 +1,4 @@
-bh,jn=map(int,input().split())
+b,jn=map(int,input().split())
 df=input().split()
 h=[]
 for i in df:
