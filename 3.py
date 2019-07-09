@@ -1,2 +1,2 @@
 hy=input()
-print(hy.yitle())
+print(hy.title())
